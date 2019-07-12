@@ -1,1 +1,1 @@
-# gsp156
+# GSP156 Terraform Fundamentals
